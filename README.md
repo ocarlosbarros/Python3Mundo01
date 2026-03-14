@@ -81,7 +81,7 @@ python3 --version
 Clone o repositório:
 
 ```bash
-git clone https://github.com/yourusername/python-course.git
+git clone https://github.com/ocarlosbarros/Python3Mundo01.git
 ```
 
 Navegue até o diretório:
