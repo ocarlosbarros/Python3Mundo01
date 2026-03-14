@@ -1,4 +1,4 @@
-# Python 3 Mundo 01: Curso em Vídeo
+# Python 3 Mundo 01 - Curso em Vídeo
 
 Este repositório contém exercícios, desafios e notas sobre meus estudos de Python.
 O objetivo é praticar fundamentos de programação com Python propostos pelo curso **Python 3 Mundo 01 do Curso em Vídeo**, servindo também como material auxiliar para a disciplina **Programação 2** do curso de **Jogos Digitais da FATEC Carapicuíba**.
@@ -125,7 +125,8 @@ Este repositório também inclui:
 
 ## 👨‍💻 Autor
 
-Carlos Barros
+Carlos 
+
 Desenvolvedor Backend | Estudante de Jogos Digitais
 
 ---
