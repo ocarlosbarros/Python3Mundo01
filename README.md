@@ -125,7 +125,7 @@ Este repositório também inclui:
 
 ## 👨‍💻 Autor
 
-Carlos 
+Carlos Barros
 
 Desenvolvedor Backend | Estudante de Jogos Digitais
 
